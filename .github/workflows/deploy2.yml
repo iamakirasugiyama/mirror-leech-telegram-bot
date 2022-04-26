@@ -1,4 +1,4 @@
-name: Manually Deploy to Heroku #2
+name: Manually Deploy to Heroku 02
 
 on: workflow_dispatch
 
